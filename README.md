@@ -1,2 +1,2 @@
 # groupproject-team-22
-![alt text](./images/MAIN.png)
+![alt text](./images/MAIN.jpg)
